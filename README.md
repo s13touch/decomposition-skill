@@ -17,8 +17,10 @@ skills/
     SKILL.md                          # точка входа скилла
     references/
       pipeline.md                     # этапы, артефакты, оркестрация
+      checkpoints.md                  # протокол обязательных шлюзов (шаг за шагом)
       hierarchy-canon.md              # канон формата дерева, нейминг, роли, исключения
       inputs-and-augmentation.md      # чтение источников + режим «Дополнение»
+      figma-access.md                 # доступ к Figma без MCP (встроенный браузер Orca)
       xml-schema-drawio.md            # шаблон и правила генерации draw.io
       layout.md                       # алгоритм расстановки блоков
       coverage-matrix.md              # спецификация XLSX-матрицы
@@ -26,6 +28,8 @@ skills/
         drawio-template.xml           # эталонный шаблон draw.io
         hierarchy-example.md          # пример дерева
         coverage-matrix-example.md    # пример матрицы
+    scripts/
+      orca-figma.mjs                  # хелпер чтения Figma через встроенный браузер Orca
 test/
   fixture-widget.md                   # тестовое описание фичи
   expected-hierarchy.md               # ожидаемая декомпозиция
@@ -86,7 +90,7 @@ npx skills@latest add s13touch/decomposition-skill --skill=decomposition-qa
 
 - Агент, поддерживающий скиллы (OpenCode, Claude Code и др.).
 - Для установки через CLI — Node.js 22+.
-- Для чтения Figma — Figma MCP.
+- Для чтения Figma — Figma MCP, Figma REST API (personal access token) или встроенный браузер Orca (см. `skills/decomposition-qa/references/figma-access.md`).
 - Для чтения URL — доступ к сети/ресурсу.
 
 ## Лицензия
