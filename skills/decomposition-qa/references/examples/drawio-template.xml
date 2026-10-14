@@ -14,32 +14,30 @@
       <mxGeometry height="30" width="30" x="440" y="26.25" as="geometry" />
     </mxCell>
     <mxCell id="tpl-4" edge="1" parent="tpl-1" source="tpl-7" target="tpl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="390" y="41.25" as="sourcePoint" />
-      </mxGeometry>
+      <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="tpl-5" parent="tpl-1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fillColor=#FFFFFF;" value="" vertex="1">
       <mxGeometry height="30" width="30" x="130" y="26.25" as="geometry" />
     </mxCell>
-    <mxCell id="tpl-6" edge="1" parent="tpl-1" source="tpl-2" target="tpl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+    <mxCell id="tpl-6" edge="1" parent="tpl-1" source="tpl-2" target="tpl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="tpl-7" parent="tpl-1" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fillColor=#FFFFFF;" value="" vertex="1">
       <mxGeometry height="30" width="30" x="370" y="26.25" as="geometry" />
     </mxCell>
-    <mxCell id="tpl-8" edge="1" parent="tpl-1" source="tpl-5" target="tpl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+    <mxCell id="tpl-8" edge="1" parent="tpl-1" source="tpl-5" target="tpl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
-    <mxCell id="tpl-9" edge="1" parent="tpl-1" source="tpl-13" target="tpl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+    <mxCell id="tpl-9" edge="1" parent="tpl-1" source="tpl-13" target="tpl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="tpl-10" parent="tpl-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=0;strokeColor=#7EA6E0;fontSize=10;" value="Задача 1" vertex="1">
       <mxGeometry height="62.5" width="90" x="200" y="10" as="geometry" />
     </mxCell>
-    <mxCell id="tpl-11" edge="1" parent="tpl-1" source="tpl-5" target="tpl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+    <mxCell id="tpl-11" edge="1" parent="tpl-1" source="tpl-5" target="tpl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
-    <mxCell id="tpl-12" edge="1" parent="tpl-1" source="tpl-10" target="tpl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+    <mxCell id="tpl-12" edge="1" parent="tpl-1" source="tpl-10" target="tpl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
       <mxGeometry relative="1" as="geometry" />
     </mxCell>
     <mxCell id="tpl-13" parent="tpl-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopSub=0;strokeColor=#7EA6E0;fontSize=10;" value="Задача 2" vertex="1">
